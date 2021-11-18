@@ -1,0 +1,7 @@
+﻿  controller.cpp
+C:\Users\hahao\OneDrive - postech.ac.kr\robot\impedance_control\impedance_control\controller.cpp(37,14): warning C4244: '인수': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=glm::f32
+          ]
+  impedance_control.vcxproj -> C:\Users\hahao\OneDrive - postech.ac.kr\robot\impedance_control\Debug\impedance_control.exe
